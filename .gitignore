@@ -1,0 +1,7 @@
+.venv/
+venv310/
+backend/data/
+backend/models/
+backend/uploads/
+Images/
+.env
